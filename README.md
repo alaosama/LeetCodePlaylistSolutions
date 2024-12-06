@@ -31,10 +31,11 @@ Les solutions sont classées par **niveau de difficulté**, **titre de problème
 ## 🌟 Pourquoi ce Dépôt ?
 Ce dépôt n’est pas seulement une vitrine de mes compétences en résolution de problèmes, mais aussi une ressource pour :
 
-Développeurs en herbe : Comprendre et apprendre à aborder des problèmes algorithmiques.
-Préparation d’entretiens : Un guide pour les entretiens techniques.
-Revue de Code : Un espace pour partager et discuter des approches alternatives.
-🧑‍💻 Auteur
+-- Développeurs en herbe : Comprendre et apprendre à aborder des problèmes algorithmiques.
+-- Préparation d’entretiens : Un guide pour les entretiens techniques.
+-- Revue de Code : Un espace pour partager et discuter des approches alternatives.
+
+## 🧑‍💻 Auteur
 👋 Bonjour ! Je suis Votre Osama, un développeur passionné avec un intérêt marqué pour les algorithmes et la résolution de problèmes. N’hésitez pas à me contacter sur LinkedIn ou à explorer mes autres projets sur GitHub.
 
 ## 📜 Licence
