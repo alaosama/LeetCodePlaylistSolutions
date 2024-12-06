@@ -1,5 +1,3 @@
-# Contenu du fichier README.md en français, structuré de manière professionnelle.
-readme_content = """
 # Solutions LeetCode
 
 Bienvenue dans mon **dépôt de solutions LeetCode** ! 🎯 Ce dépôt regroupe mes solutions aux différents problèmes de LeetCode, avec une attention particulière portée à un code clair, efficace et bien structuré.
@@ -7,7 +5,6 @@ Bienvenue dans mon **dépôt de solutions LeetCode** ! 🎯 Ce dépôt regroupe 
 ## 🗂️ Structure du Dépôt
 
 Les solutions sont classées par **niveau de difficulté**, **titre de problème** et **la solution de problème**, afin de faciliter la navigation et la recherche. Chaque solution est écrite avec un souci de lisibilité et d’optimisation.
-
 
 
 ## 🏆 Points Forts
@@ -40,9 +37,9 @@ Revue de Code : Un espace pour partager et discuter des approches alternatives.
 🧑‍💻 Auteur
 👋 Bonjour ! Je suis Votre Osama, un développeur passionné avec un intérêt marqué pour les algorithmes et la résolution de problèmes. N’hésitez pas à me contacter sur LinkedIn ou à explorer mes autres projets sur GitHub.
 
-📜 Licence
+## 📜 Licence
 Ce dépôt est sous licence MIT. Vous pouvez utiliser le code avec attribution. Consultez le fichier LICENSE pour plus de détails.
 
-💡 Contributions et Suggestions Bienvenues !
+## 💡 Contributions et Suggestions Bienvenues !
 Si vous avez des idées d’amélioration ou souhaitez ajouter des solutions, n’hésitez pas à ouvrir une issue ou à soumettre une pull request. Apprenons et progressons ensemble ! 🚀 """
 
