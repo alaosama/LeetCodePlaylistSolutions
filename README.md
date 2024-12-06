@@ -23,7 +23,7 @@ Les solutions sont classées par **niveau de difficulté**, **titre de problème
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votreutilisateur/Solutions-LeetCode.git
+   git clone https://github.com/alaosama/LeetCodePlaylistSolutions
 
 2. Naviguez dans le dossier correspondant au niveau de difficulté ou au type de problème.
 3. Ouvrez le fichier de solution dans votre éditeur préféré pour consulter le code.
@@ -41,5 +41,5 @@ Revue de Code : Un espace pour partager et discuter des approches alternatives.
 Ce dépôt est sous licence MIT. Vous pouvez utiliser le code avec attribution. Consultez le fichier LICENSE pour plus de détails.
 
 ## 💡 Contributions et Suggestions Bienvenues !
-Si vous avez des idées d’amélioration ou souhaitez ajouter des solutions, n’hésitez pas à ouvrir une issue ou à soumettre une pull request. Apprenons et progressons ensemble ! 🚀 """
+Si vous avez des idées d’amélioration ou souhaitez ajouter des solutions, n’hésitez pas à ouvrir une issue ou à soumettre une pull request. Apprenons et progressons ensemble ! 🚀
 
