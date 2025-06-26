@@ -1,4 +1,5 @@
-ssh-keygen -t rsa -b 4096 -C "ton.email@etu.univ.fr"
+<p>
+  ssh-keygen -t rsa -b 4096 -C "ton.email@etu.univ.fr"
 cat ~/.ssh/id_rsa.pub
 New SSH Key ...
 git clone git@github.com:prof/projet-examen.git
@@ -25,4 +26,6 @@ POUR LA MÉTHODE SUIVANTE
 git checkout main
 git pull origin main
 git checkout -b mehdi-nouvelleMethode
-# tu codes, commits, push, pull request
+tu codes, commits, push, pull request
+
+</p>
