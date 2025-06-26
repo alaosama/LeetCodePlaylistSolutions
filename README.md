@@ -1,42 +1,28 @@
-# LeetCode Solutions
+ssh-keygen -t rsa -b 4096 -C "ton.email@etu.univ.fr"
+cat ~/.ssh/id_rsa.pub
+New SSH Key ...
+git clone git@github.com:prof/projet-examen.git
+cd projet-examen
+1. Revenir sur main
+git checkout main
+2. Mettre à jour ton code avec les dernières modifs du prof
+git pull origin main
+3. Créer ta branche pour la méthode
+git checkout -b mehdi-calculTotal
+git add .
+git commit -m "feat: méthode calculTotal terminée"
+git push -u origin mehdi-calculTotal
 
-Welcome to my **LeetCode Solutions Repository**! 🎯 This repository contains my solutions to various LeetCode problems, with a focus on clear, efficient, and well-structured code.
+RENDRE TON TRAVAIL : CRÉER UNE PULL REQUEST
+Va sur GitHub (dépôt du prof)
+Clique sur "Compare & pull request"
+Clique sur "Create pull request"
+(Optionnel) Ajoute un message :
+"Méthode terminée – Mehdi"
+❗ Ne clique jamais sur "Merge" 
 
-## 🗂️ Repository Structure
-
-The solutions are organized by **difficulty level**, **problem title**, and **problem solution**, making it easy to navigate and find what you're looking for. Each solution emphasizes readability and optimization.
-
-## 🏆 Highlights
-
-- **Comprehensive Coverage**: Solutions span multiple domains, such as:
-  - **Arrays**
-  - **Strings**
-  - **Dynamic Programming**
-  - **Graphs**
-  - **Linked Lists**
-  - **Binary Trees**
-- **Readable Code**: Every solution includes explanatory comments and meaningful variable names.
-- **Optimization**: Emphasis on solutions with optimal time and space complexity.
-
-## 🚀 How to Use This Repository
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/alaosama/LeetCodePlaylistSolutions
-
-
-2. Navigate to the folder corresponding to the difficulty level or problem type.
-3. Open the solution file in your preferred editor to review the code.
-
-## 🌟 Why This Repository?
-This repository is not just a showcase of my problem-solving skills but also a resource for:
-
--- Aspiring Developers: Learn and understand how to approach algorithmic problems.
--- Interview Preparation: A guide for technical interviews.
--- Code Review: A space to share and discuss alternative approaches.
-
-## 🧑‍💻 About the Author
-👋 Hi! I'm Osama, a passionate developer with a keen interest in algorithms and problem-solving. Feel free to connect with me on LinkedIn or explore my other projects on GitHub.
-
-
-
+POUR LA MÉTHODE SUIVANTE
+git checkout main
+git pull origin main
+git checkout -b mehdi-nouvelleMethode
+# tu codes, commits, push, pull request
